@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torrancerestoration.com/sitemap.xml
